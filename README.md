@@ -51,16 +51,50 @@ SOFTWARE.
 # About
 This repository offers a curated collection of research and development resources in the field of neural symbolic system.
 
+# cornerstone
+* annotated logic
+* fuzzy logic
+* differentiable logic
+
 # Survey and Benchmark
 ## Survey
+* [From statistical relational to neurosymbolic artificial intelligence: A survey](https://www.sciencedirect.com/science/article/pii/S0004370223002084). Giuseppe Marra. `Artificial Intelligence, 2024`
 * [A survey on neural-symbolic learning systems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003398). Shirui Pan. `Neural Networks, 2023`.
 * [Neurosymbolic AI: the 3rd wave](https://link.springer.com/article/10.1007/s10462-023-10448-w). Garcez. `Artificial Intelligence Review, 2023`.
+* [Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems](https://ieeexplore.ieee.org/document/9429985). Laura von Rueden. `IEEE Transactions on Knowledge and Data Engineering 2023`
 * [The third AI summer: AAAI Robert S. Engelmore Memorial Lecture](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/19122). Henry Kautz. `AI Magazine, 2022`.
+* [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/abs/2002.06177). Gary Marcus. `eprint arXiv, 2020`.
 * [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/abs/2003.00330). Luis C. Lamb. `eprint arXiv, 2020`
 * [On the integration of symbolic and sub-symbolic techniques for XAI: A survey](https://journals.sagepub.com/doi/10.3233/IA-190036). Roberta Calegari. `Intelligenza Artificiale 2020`.
+* [Extracting Relational Explanations From Deep Neural Networks: A Survey From a Neural-Symbolic Perspective](https://ieeexplore.ieee.org/document/8889997). Joseph Townsend. `IEEE Transactions on Neural Networks and Learning Systems, 2020`
 * [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902). Tarek R Besold. `eprint arXiv, 2017`.
-* [Neural-symbolic learning systems: foundations and applications](https://link.springer.com/book/10.1007/978-1-4471-0211-3). Garcez. `Book, 2002&2012`
+* [Neural-symbolic learning systems: foundations and applications](https://link.springer.com/book/10.1007/978-1-4471-0211-3). Garcez. `Book, 2002&2012`.
 * [Survey and critique of techniques for extracting rules from trained artificial neural networks](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204). Alan B. Tickle. `Knowledge-Based Systems 1995`.
-* 
+## Benchmark
+* [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/abs/2107.14351). William La Cava. `eprint arXiv, 2021`.[[evaluation]](https://cavalab.org/srbench/#srbench-a-living-benchmark-for-symbolic-regression)
 
+
+# Neural-symbolic learning systems
+
+## Frameworks
+* **LTNs(Logic Tensor Networks)** [Paper:Logic Tensor Networks](https://arxiv.org/abs/2012.13635) [`Code(PyTorch)`](https://github.com/tommasocarraro/LTNtorch)[`Code(Tensorflow)`](https://github.com/logictensornetworks/logictensornetworks)
+* **RRNs(Recursive Reasoning Networks)** [Paper:Ontology Reasoning with Deep Neural Networks](https://arxiv.org/abs/1808.07980) [`Code(DataGen1)`](https://github.com/phohenecker/family-tree-data-gen)[`Code(DataGen2)`](https://github.com/phohenecker/country-data-gen)
+
+# Related organization
+| Organization| Related Research |Purpose|
+|--------|-------------|----------|
+|IBM|LNN|?|
+|Sony|?|?|
+|DARPA|ANSR|?|
+|Meta|NeurIPS|?|
+
+# Contributors 🌟
+
+Thanks goes to wonderful me!
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/xixiaxibro"><img src="https://avatars.githubusercontent.com/u/48472542?v=4" width="100px;" alt=""/><br /><sub><b>Fulin Zhou</b></sub></a><br /><a href="#troublemaker-FulinZhou" title="Make trouble">🎯</a> <a href="https://github.com/xixiaxibro/ETA-Resource-Imitation/commits?author=xixiaxibro" title="Documentation">📝</a></td>
+  </tr>
+</table>
 
