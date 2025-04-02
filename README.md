@@ -1,2 +1,66 @@
 # NeSy-Resource
-Materials about Neural Symbolic System
+<!--
+Copyright (c) 2022 lin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+
+<h3 align="center">
+    <img src="https://github.com/xixiaxibro/NeSy-Resource/blob/main/NSS.png">
+</h3>
+
+<h1 align="center">
+    <p>Encrypted Network Traffic Analysis Resources</p>
+    <p>神经符号系统相关研究资源汇总</p>
+</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/status-maintained-brightgreen">
+    <a href="https://github.com/xixiaxibro/NeSy-Resource/blob/main/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/xixiaxibro/NeSy-Resource.svg?color=green">
+    </a>
+    <img src="https://img.shields.io/github/stars/xixiaxibro/NeSy-Resource">
+    <img src="https://img.shields.io/github/forks/xixiaxibro/NeSy-Resource">
+    <a href="https://github.com/xixiaxibro/NeSy-Resource/graphs/traffic">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxixiaxibro%2FNeSy-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
+    </a>
+    <a href="https://github.com/xixiaxibro/NeSy-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-1-orange.svg"></a>
+</p>
+
+**Note:**
+- ⭐ **Please leave a <font color='orange'>STAR</font> if you like this project!** ⭐
+- If you find any <font color='red'>incorrect</font> / <font color='red'>inappropriate</font> / <font color='red'>outdated</font> content, please kindly consider opening an issue or a PR. 
+- We would greatly appreciate your contribution to this list, and you will appear in the [contributors✨](#contributors-)!
+
+# About
+This repository offers a curated collection of research and development resources in the field of neural symbolic system.
+
+# Survey and Benchmark
+## Survey
+* [A survey on neural-symbolic learning systems](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003398). Shirui Pan. `Neural Networks, 2023`.
+* [Neurosymbolic AI: the 3rd wave](https://link.springer.com/article/10.1007/s10462-023-10448-w). Garcez. `Artificial Intelligence Review, 2023`.
+* [The third AI summer: AAAI Robert S. Engelmore Memorial Lecture](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/19122). Henry Kautz. `AI Magazine, 2022`.
+* [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/abs/2003.00330). Luis C. Lamb. `eprint arXiv, 2020`
+* [On the integration of symbolic and sub-symbolic techniques for XAI: A survey](https://journals.sagepub.com/doi/10.3233/IA-190036). Roberta Calegari. `Intelligenza Artificiale 2020`.
+* [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902). Tarek R Besold. `eprint arXiv, 2017`.
+* [Neural-symbolic learning systems: foundations and applications](https://link.springer.com/book/10.1007/978-1-4471-0211-3). Garcez. `Book, 2002&2012`
+* [Survey and critique of techniques for extracting rules from trained artificial neural networks](https://www.sciencedirect.com/science/article/abs/pii/0950705196819204). Alan B. Tickle. `Knowledge-Based Systems 1995`.
+* 
+
+
