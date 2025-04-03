@@ -26,7 +26,7 @@ SOFTWARE.
 </h3>
 
 <h1 align="center">
-    <p>Encrypted Network Traffic Analysis Resources</p>
+    <p>Neural Symbolic Systems Resources</p>
     <p>神经符号系统相关研究资源汇总</p>
 </h1>
 
@@ -100,6 +100,10 @@ This repository offers a curated collection of research and development resource
     * [Paper:Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912)
     * [`Code`](https://github.com/logic-and-learning-lab/Popper)
     * [Learning Materials](https://andrewcropper.com/)
+* **SATNet**
+    * [Paper:SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)
+    * [`Code`](https://github.com/locuslab/SATNet)
+* 
 
 # Related organization
 | Organization| Related Research |Purpose|
@@ -109,6 +113,7 @@ This repository offers a curated collection of research and development resource
 |DARPA|ANSR|?|
 |Meta|NeurIPS|?|
 |Oxford|ILP|?|
+|Carnegie Mellon University|SATNet|?|
 
 # Contributors 🌟
 
