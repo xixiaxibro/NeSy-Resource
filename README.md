@@ -74,7 +74,7 @@ This repository offers a curated collection of research and development resource
 * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/abs/2107.14351). William La Cava. `eprint arXiv, 2021`.[[evaluation]](https://cavalab.org/srbench/#srbench-a-living-benchmark-for-symbolic-regression)
 
 
-# Neural-symbolic learning systems
+# Neural-symbolic Learning Systems
 
 ## Frameworks
 * **LTNs(Logic Tensor Networks)**
