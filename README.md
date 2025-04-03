@@ -151,6 +151,9 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
     * [Paper:Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection](https://arxiv.org/html/2412.08457)
     * [`Code`](https://github.com/AbductiveLearning/ABLkit)
     * [Learning Materials](https://ablkit.readthedocs.io/en/latest/)
+* **DeepStochLog(Neural Stochastic Logic Programming)**
+    * [Paper:DeepStochLog: neural stochastic logic programming](https://ojs.aaai.org/index.php/AAAI/article/view/21248/20997)
+    * [`Code`](https://github.com/ML-KULeuven/deepstochlog)     
 
 
 # Related organization
