@@ -92,6 +92,14 @@ This repository offers a curated collection of research and development resource
     * [Paper4:Proof Extraction for Logical Neural Networks](https://openreview.net/forum?id=Xw3kb6UyA31)
     * [`Code`](https://github.com/IBM/LNN/)
     * [Learning Materials](https://ibm.github.io/LNN/index.html)
+* **NeurASP**
+    * [Paper:NeurASP: Embracing Neural Networks into Answer Set Programming](https://arxiv.org/abs/2307.07700)
+    * [`Code`](https://github.com/azreasoners/NeurASP)
+* **ILP(Inductive Logic Programming)**
+    * [Paper:Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
+    * [Paper:Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912)
+    * [`Code`](https://github.com/logic-and-learning-lab/Popper)
+    * [Learning Materials](https://andrewcropper.com/)
 
 # Related organization
 | Organization| Related Research |Purpose|
@@ -100,6 +108,7 @@ This repository offers a curated collection of research and development resource
 |Sony|?|?|
 |DARPA|ANSR|?|
 |Meta|NeurIPS|?|
+|Oxford|ILP|?|
 
 # Contributors 🌟
 
