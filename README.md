@@ -51,7 +51,7 @@ SOFTWARE.
 # About
 This repository offers a curated collection of research and development resources in the field of neural symbolic system.
 
-# cornerstone
+# Cornerstone
 * annotated logic
 * fuzzy logic
 * differentiable logic
@@ -96,14 +96,29 @@ This repository offers a curated collection of research and development resource
     * [Paper:NeurASP: Embracing Neural Networks into Answer Set Programming](https://arxiv.org/abs/2307.07700)
     * [`Code`](https://github.com/azreasoners/NeurASP)
 * **ILP(Inductive Logic Programming)**
-    * [Paper:Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
-    * [Paper:Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912)
+    * [Paper1:Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
+    * [Paper2:Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912)
     * [`Code`](https://github.com/logic-and-learning-lab/Popper)
     * [Learning Materials](https://andrewcropper.com/)
 * **SATNet**
     * [Paper:SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)
     * [`Code`](https://github.com/locuslab/SATNet)
-* 
+* **DSO/DSP(Deep Symbolic Policy Learning)**
+    * [Paper1:Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://openreview.net/forum?id=m5Qsh0kBQG)    
+    * [Paper2:Discovering symbolic policies with deep reinforcement learning](https://proceedings.mlr.press/v139/landajuela21a.html)
+    * [Paper3:Symbolic Regression via Neural-Guided Genetic Programming Population Seeding](https://proceedings.neurips.cc/paper/2021/hash/d073bb8d0c47f317dd39de9c9f004e9d-Abstract.html)
+    * [Paper4: A Unified Framework for Deep Symbolic Regression.](https://openreview.net/forum?id=2FNnBhwJsHK)
+    * [Paper5:Improving exploration in policy gradient search: Application to symbolic optimization.](https://mathai-iclr.github.io/papers/papers/MATHAI_16_paper.pdf)
+    * [Paper6:An interactive visualization platform for deep symbolic regression](https://www.ijcai.org/Proceedings/2020/0763.pdf)
+    * [Paper7:Incorporating domain knowledge into neural-guided search via in situ priors and constraints](https://github.com/dso-org/deep-symbolic-optimization/blob/master)
+    * [Paper8:Distilling Wikipedia mathematical knowledge into neural network models](https://mathai-iclr.github.io/papers/papers/MATHAI_15_paper.pdf)
+    * [Paper9:Leveraging Language Models to Efficiently Learn Symbolic Optimization Solutions](https://ala2022.github.io/papers/ALA2022_paper_24.pdf)
+    * [Paper10:Deep Symbolic Optimization for Electric Component Sizing in Fixed Topology Power Converters](https://openreview.net/forum?id=u_ghY9PnAyZ)
+    * [Paper11:DisCo-DSO: Coupling Discrete and Continuous Optimization for Efficient Generative Design in Hybrid Spaces](https://arxiv.org/pdf/2412.11051)[Blog](https://landajuela.github.io/discrete_continuous_autoregressive/)[Post](https://landajuela.github.io/discrete_continuous_autoregressive/)
+    * [`Code`](https://github.com/dso-org/deep-symbolic-optimization)
+* **STLNet**
+    * [Paper:STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks](https://proceedings.neurips.cc/paper/2020/file/a7da6ba0505a41b98bd85907244c4c30-Paper.pdf)
+
 
 # Related organization
 | Organization| Related Research |Purpose|
@@ -114,6 +129,7 @@ This repository offers a curated collection of research and development resource
 |Meta|NeurIPS|?|
 |Oxford|ILP|?|
 |Carnegie Mellon University|SATNet|?|
+|LLNL(Lawrence Livermore National Laboratory)|DSO|?|
 
 # Contributors 🌟
 
