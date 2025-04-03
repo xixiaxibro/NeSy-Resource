@@ -51,8 +51,6 @@ SOFTWARE.
 # About
 This repository offers a curated collection of research and development resources in the field of neural symbolic system.
 
-Sure! Here's the **updated Table of Contents** without the "About" section:
-
 ---
 
 ## Table of Contents
