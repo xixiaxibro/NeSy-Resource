@@ -156,8 +156,10 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
     * [`Code`](https://github.com/ML-KULeuven/deepstochlog)
 * **(Deep)ProbLog**
     * [Paper1:ProbLog: a probabilistic prolog and its application in link discovery](https://dl.acm.org/doi/10.5555/1625275.1625673)
-    * [Paper2:DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872)    
-    * [`Code`](https://github.com/ML-KULeuven/problog)
+    * [Paper2:DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872)
+    * [Paper3:Neural probabilistic logic programming in DeepProbLog](https://www.sciencedirect.com/science/article/abs/pii/S0004370221000552)    
+    * [`Code1`](https://github.com/ML-KULeuven/problog)
+    * [`Code2`](https://github.com/ML-KULeuven/deepproblog)
     * [Learning Materails](https://dtai.cs.kuleuven.be/problog/tutorial.html)
            
 
@@ -173,6 +175,7 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
 |Carnegie Mellon University|SATNet|?||
 |LLNL(Lawrence Livermore National Laboratory)|DSO|?||
 |Nanjing University|ABL|?|🟢&nbsp;Regularly|
+|KU Leuven Machine Learning Research Group|ProLog|?|🟢&nbsp;Regularly|
 
 # Contributors 🌟
 
