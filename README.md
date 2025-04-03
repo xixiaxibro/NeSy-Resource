@@ -78,6 +78,12 @@ Let me know if you want me to generate the actual section anchors (`<a name="...
 
 # Books
 
+[Neuro Symbolic Reasoning and Learning](https://link.springer.com/book/10.1007/978-3-031-39179-8)
+by Paulo Shakarian , Chitta Baral , Gerardo I. Simari , Bowen Xi , Lahari Pokala(Arizona State University)
+
+[Neuro Symbolic Learning Systems:Foundations and Applications](https://link.springer.com/book/10.1007/978-1-4471-0211-3)
+by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
+
 
 # Survey and Benchmark
 ## Survey
@@ -148,16 +154,16 @@ Let me know if you want me to generate the actual section anchors (`<a name="...
 
 
 # Related organization
-| Organization| Related Research |Purpose|
-|--------|-------------|----------|
-|IBM|LNN|?|
-|Sony|?|?|
-|DARPA|ANSR|?|
-|Meta|NeurIPS|?|
-|Oxford|ILP|?|
-|Carnegie Mellon University|SATNet|?|
-|LLNL(Lawrence Livermore National Laboratory)|DSO|?|
-|Nanjing University|ABL|?|
+| Organization| Related Research |Purpose|Status|
+|--------|-------------|----------|---------|
+|IBM|LNN|?||
+|Sony|?|?||
+|DARPA|ANSR|?|🟡&nbsp;No updates|
+|Meta|NeurIPS|?||
+|Oxford|ILP|?||
+|Carnegie Mellon University|SATNet|?||
+|LLNL(Lawrence Livermore National Laboratory)|DSO|?||
+|Nanjing University|ABL|?|🟢&nbsp;Regularly|
 
 # Contributors 🌟
 
