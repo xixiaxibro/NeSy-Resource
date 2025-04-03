@@ -77,8 +77,19 @@ This repository offers a curated collection of research and development resource
 # Neural-symbolic learning systems
 
 ## Frameworks
-* **LTNs(Logic Tensor Networks)** [Paper:Logic Tensor Networks](https://arxiv.org/abs/2012.13635) [`Code(PyTorch)`](https://github.com/tommasocarraro/LTNtorch)[`Code(Tensorflow)`](https://github.com/logictensornetworks/logictensornetworks)
-* **RRNs(Recursive Reasoning Networks)** [Paper:Ontology Reasoning with Deep Neural Networks](https://arxiv.org/abs/1808.07980) [`Code(DataGen1)`](https://github.com/phohenecker/family-tree-data-gen)[`Code(DataGen2)`](https://github.com/phohenecker/country-data-gen)
+* **LTNs(Logic Tensor Networks)**
+    * [Paper:Logic Tensor Networks](https://arxiv.org/abs/2012.13635)
+    * [`Code(PyTorch)`](https://github.com/tommasocarraro/LTNtorch)
+    * [`Code(Tensorflow)`](https://github.com/logictensornetworks/logictensornetworks)
+* **RRNs(Recursive Reasoning Networks)**
+    * [Paper:Ontology Reasoning with Deep Neural Networks](https://arxiv.org/abs/1808.07980)
+    * [`Code(DataGen1)`](https://github.com/phohenecker/family-tree-data-gen)
+    * [`Code(DataGen2)`](https://github.com/phohenecker/country-data-gen)
+* **LNNs(Logical Neural Networks)**
+    * [Paper1:Logical Neural Network](https://arxiv.org/abs/2006.13155)
+    * [Paper2:Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
+    * [Paper3:Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning](https://ieeexplore.ieee.org/document/9415044)
+    * [Paper4:Proof Extraction for Logical Neural Networks](https://openreview.net/forum?id=Xw3kb6UyA31)
 
 # Related organization
 | Organization| Related Research |Purpose|
