@@ -51,10 +51,33 @@ SOFTWARE.
 # About
 This repository offers a curated collection of research and development resources in the field of neural symbolic system.
 
+Sure! Here's the **updated Table of Contents** without the "About" section:
+
+---
+
+## Table of Contents
+
+* [`1. Cornerstone`](Cornerstone)
+* [`2. Books`](books)
+* [`3. Survey and Benchmark`](Survey-and-Benchmark)
+  * [`3.1. Survey`](Survey)  
+  * [`3.2. Benchmark`](Benchmark)
+* [`4. Neural-symbolic Learning Systems`](Neural-symbolic-Learning-Systems)  
+  * [`4.1. Frameworks`](Frameworks)  
+* [`5. Related Organization`](Related-Organization)
+* [`6. Contributors`](Contributors)
+
+---
+
+Let me know if you want me to generate the actual section anchors (`<a name="..." />`) too, or convert all headings to anchor-compatible style automatically!
+
 # Cornerstone
 * annotated logic
 * fuzzy logic
 * differentiable logic
+
+# Books
+
 
 # Survey and Benchmark
 ## Survey
