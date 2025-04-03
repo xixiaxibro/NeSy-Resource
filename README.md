@@ -120,7 +120,8 @@ This repository offers a curated collection of research and development resource
     * [Paper:STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks](https://proceedings.neurips.cc/paper/2020/file/a7da6ba0505a41b98bd85907244c4c30-Paper.pdf)
 * **ABL(Abductive Learning)**
     * [Paper:Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection](https://arxiv.org/html/2412.08457)
-    *     
+    * [`Code`](https://github.com/AbductiveLearning/ABLkit)
+    * [Learning Materials](https://ablkit.readthedocs.io/en/latest/)
 
 
 # Related organization
