@@ -22,7 +22,7 @@ SOFTWARE.
 -->
 
 <h3 align="center">
-    <img src="https://github.com/xixiaxibro/NeSy-Resource/blob/main/NSS.png">
+    <img src="https://github.com/xixiaxibro/NeSy-Resource/blob/main/NeSyBN.png">
 </h3>
 
 <h1 align="center">
