@@ -118,6 +118,9 @@ This repository offers a curated collection of research and development resource
     * [`Code`](https://github.com/dso-org/deep-symbolic-optimization)
 * **STLNet**
     * [Paper:STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks](https://proceedings.neurips.cc/paper/2020/file/a7da6ba0505a41b98bd85907244c4c30-Paper.pdf)
+* **ABL(Abductive Learning)**
+    * [Paper:Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection](https://arxiv.org/html/2412.08457)
+    *     
 
 
 # Related organization
@@ -130,6 +133,7 @@ This repository offers a curated collection of research and development resource
 |Oxford|ILP|?|
 |Carnegie Mellon University|SATNet|?|
 |LLNL(Lawrence Livermore National Laboratory)|DSO|?|
+|Nanjing University|ABL|?|
 
 # Contributors 🌟
 
