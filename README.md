@@ -67,8 +67,6 @@ This repository offers a curated collection of research and development resource
 
 ---
 
-Let me know if you want me to generate the actual section anchors (`<a name="..." />`) too, or convert all headings to anchor-compatible style automatically!
-
 # Cornerstone
 * annotated logic
 * fuzzy logic
