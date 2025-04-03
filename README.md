@@ -153,7 +153,12 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
     * [Learning Materials](https://ablkit.readthedocs.io/en/latest/)
 * **DeepStochLog(Neural Stochastic Logic Programming)**
     * [Paper:DeepStochLog: neural stochastic logic programming](https://ojs.aaai.org/index.php/AAAI/article/view/21248/20997)
-    * [`Code`](https://github.com/ML-KULeuven/deepstochlog)     
+    * [`Code`](https://github.com/ML-KULeuven/deepstochlog)
+* **ProbLog**
+    * [Paper:ProbLog: a probabilistic prolog and its application in link discovery](https://dl.acm.org/doi/10.5555/1625275.1625673)    
+    * [`Code`](https://github.com/ML-KULeuven/problog)
+    * [Learning Materails](https://dtai.cs.kuleuven.be/problog/tutorial.html)
+           
 
 
 # Related organization
