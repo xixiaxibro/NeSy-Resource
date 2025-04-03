@@ -90,6 +90,8 @@ This repository offers a curated collection of research and development resource
     * [Paper2:Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
     * [Paper3:Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning](https://ieeexplore.ieee.org/document/9415044)
     * [Paper4:Proof Extraction for Logical Neural Networks](https://openreview.net/forum?id=Xw3kb6UyA31)
+    * [`Code`](https://github.com/IBM/LNN/)
+    * [Learning Materials](https://ibm.github.io/LNN/index.html)
 
 # Related organization
 | Organization| Related Research |Purpose|
