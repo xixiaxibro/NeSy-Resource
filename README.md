@@ -124,7 +124,6 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
     * [Paper1:Learning Explanatory Rules from Noisy Data](https://arxiv.org/abs/1711.04574)
     * [Paper2:Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912)
     * [Paper3:αILP: thinking visual scenes as differentiable logic programs](https://openreview.net/forum?id=0GWTZcHRuC&referrer=%5Bthe%20profile%20of%20Viktor%20Pfanschilling%5D(%2Fprofile%3Fid%3D~Viktor_Pfanschilling1))
-    * 
     * [`Code`](https://github.com/logic-and-learning-lab/Popper)
     * [Learning Materials](https://andrewcropper.com/)
 * **SATNet**
@@ -159,8 +158,15 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
 * **DeepStochLog(Neural Stochastic Logic Programming)**
     * [Paper:DeepStochLog: neural stochastic logic programming](https://ojs.aaai.org/index.php/AAAI/article/view/21248/20997)
     * [`Code`](https://github.com/ML-KULeuven/deepstochlog)
-           
-
+* **Difflog**
+    * [Paper:Synthesizing Datalog Programs Using Numerical Relaxation](https://arxiv.org/abs/1906.00163)
+    * [`Code`](https://github.com/petablox/difflog)      
+* **DL2**
+    * [Paper:DL2: Training and Querying Neural Networks with Logic](https://proceedings.mlr.press/v97/fischer19a.html)
+    * [`Code`](https://github.com/eth-sri/dl2)
+* **DLM**
+    * [Paper:Integrating Learning and Reasoning with Deep Logic Models](https://arxiv.org/abs/1901.04195)
+    * [`Code`]()    
 
 # Related organization
 | Organization| Related Research |Purpose|Status|
