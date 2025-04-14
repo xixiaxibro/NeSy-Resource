@@ -169,15 +169,15 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
     * [`Code`]()    
 
 # Related organization
-| Organization| Related Research |Purpose|Status|
-|--------|-------------|----------|---------|
-|IBM|LNN|?||
-|Sony|LTN|?|🟢&nbsp;Regularly|
-|DARPA|ANSR|?|🟡&nbsp;No updates|
-|Meta|NeurIPS|?||
-|Oxford|ILP|?||
-|Carnegie Mellon University|SATNet|?||
-|LLNL(Lawrence Livermore National Laboratory)|DSO|?||
+| Organization| Related Research |Status|
+|--------|-------------|---------|
+|IBM|LNN||
+|Sony|LTN|🟢&nbsp;Regularly|
+|DARPA|ANSR|🟡&nbsp;No updates|
+|Meta|NeurIPS|🟢&nbsp;Regularly|
+|Oxford|ILP||
+|Carnegie Mellon University|SATNet||
+|LLNL(Lawrence Livermore National Laboratory)|DSO||
 |Nanjing University|ABL|?|🟢&nbsp;Regularly|
 |KU Leuven Machine Learning Research Group|ProLog|?|🟢&nbsp;Regularly|
 
