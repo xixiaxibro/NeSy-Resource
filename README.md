@@ -172,7 +172,7 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
 | Organization| Related Research |Purpose|Status|
 |--------|-------------|----------|---------|
 |IBM|LNN|?||
-|Sony|?|?||
+|Sony|LTN|?|🟢&nbsp;Regularly|
 |DARPA|ANSR|?|🟡&nbsp;No updates|
 |Meta|NeurIPS|?||
 |Oxford|ILP|?||
