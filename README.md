@@ -178,8 +178,8 @@ by Artur S. d’Avila Garcez , Krysia B. Broda , Dov M. Gabbay(London)
 |Oxford|ILP||
 |Carnegie Mellon University|SATNet||
 |LLNL(Lawrence Livermore National Laboratory)|DSO||
-|Nanjing University|ABL|?|🟢&nbsp;Regularly|
-|KU Leuven Machine Learning Research Group|ProLog|?|🟢&nbsp;Regularly|
+|Nanjing University|ABL|🟢&nbsp;Regularly|
+|KU Leuven Machine Learning Research Group|ProLog|🟢&nbsp;Regularly|
 
 # Contributors 🌟
 
